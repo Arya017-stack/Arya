@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05d5b552-c558-4553-90c3-73f34db1bea0" /># Hi, I'm Arya 👋  
+# Hi, I'm Arya 👋  
 ### Aspiring AI/ML Engineer | Building AI Systems, Agents & Intelligent Workflows
 
 I’m a second-year AI/ML student focused on building real-world AI systems by combining machine learning, automation, and backend integration.  
